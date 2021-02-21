@@ -3,9 +3,9 @@
 FM-Tracker is a tracker I did for my computer science school project in 2000.
 It was a tool I created for my main project (3d game). Both were in 100% assembly code.
 
-![Screenshot0](/Screenshots/screenshot0.jpg)
+![Screenshot0](/Screenshots/screenshot0.png)
 
-![Screenshot1](/Screenshots/screenshot1.jpg)
+![Screenshot1](/Screenshots/screenshot1.png)
 
 More info here: https://www.jsr-productions.com/blogpost3319ddc.html
 
