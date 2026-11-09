@@ -7,7 +7,8 @@ It was a tool I created for my main project (3d game). Both were in 100% assembl
 
 ![Screenshot1](/Screenshots/screenshot1.png)
 
-More info here: https://www.jsr-productions.com/blogpost3319ddc.html
+- More info here: https://www.jsr-productions.com/blogpost3319ddc.html
+- Win32 C++ port: https://github.com/XorJS/FM-Tracker-Win32-
 
 ## Examples
 
